@@ -1,2 +1,4 @@
 Finish git
 Start on GCP
+This is developer B creating feature B
+Feature B is awesome
